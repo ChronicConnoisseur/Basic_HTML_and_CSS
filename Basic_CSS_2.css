@@ -1,0 +1,14 @@
+/*
+p {
+	color: rgb(197,0,255);
+	background: black;
+	font-weight: 200;
+	text-align: center;
+}
+*/
+/*Comment syntax*/
+
+.shadowP {
+	text-shadow: 3px 5px 5px black;
+}
+
